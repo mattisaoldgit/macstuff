@@ -1,2 +1,6 @@
 # macstuff
-This is for general mac stuff
+
+My Frist GIT Repo
+
+
+
